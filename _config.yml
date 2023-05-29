@@ -21,11 +21,9 @@ links:
   - title: About Me
     url: /
   - title: Activities
-    url: /projects/
+    url: /activities/
 #  - title: Awards
 #    url: /awards/
-  - title: Hobbies
-    url: /awards/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
