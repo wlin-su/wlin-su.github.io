@@ -4,11 +4,9 @@ layout: page
 
 ## Weilin Su (苏蔚琳)
 
-
-
-- PhD Student at Yau Mathematical Science Center, Tsinghua University (China)
-- Supervised by Will Donovan
-- Email: suwl19@mails.tsinghua.edu.cn
+ PhD Student at Yau Mathematical Science Center, Tsinghua University (China)
+ Supervised by Will Donovan
+ Email: suwl19@mails.tsinghua.edu.cn
 
 
 
