@@ -34,10 +34,8 @@ owner:
 links:
   - title: About Me
     url: /
-  - title: Publications
-    url: /publications/
-  - title: Projects
-    url: /projects/
+  - title: Activities
+    url: /activities/
   - title: Awards
     url: /awards/
   - title: Hobbies
