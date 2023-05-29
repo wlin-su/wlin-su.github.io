@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# About Me
+## About Me
 
 **Weilin Su (苏蔚琳)**
 
