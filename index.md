@@ -7,11 +7,7 @@ layout: page
 
 
 - PhD Student at Yau Mathematical Science Center, Tsinghua University (China)
-
-
 - Supervised by Will Donovan
-
-
 - Email: suwl19@mails.tsinghua.edu.cn
 
 
