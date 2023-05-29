@@ -7,7 +7,7 @@ url: https://wlin-su.github.io
 # Owner/author information
 owner:
   name: Weilin Su
-  avatar: 
+#  avatar: weilinsu.jpeg
 #  bio:
   email: suwl19@mails.tsinghua.edu.cn
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
@@ -36,8 +36,8 @@ links:
     url: /
   - title: Activities
     url: /activities/
-  - title: Awards
-    url: /awards/
+#  - title: Awards
+#    url: /awards/
   - title: Hobbies
     url: /hobbies/
 
