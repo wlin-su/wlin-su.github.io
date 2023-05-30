@@ -21,5 +21,5 @@ My current research focuses on algebraic geometry, mirror symmetry and geometric
 
 ## Education
 
-- 2019.09 -- Present  PhD student, Mathematics, Tsinghua University, Advisor: Will Donovan
-- 2015.08 -- 2019.06  Bachelor, Mathematics and Applied Mathematics, Sun Yat-sen University
+- 2019.09 -- Present,  PhD student, Mathematics, Tsinghua University, Advisor: Will Donovan
+- 2015.08 -- 2019.06,  Bachelor, Mathematics and Applied Mathematics, Sun Yat-sen University
