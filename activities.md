@@ -5,8 +5,8 @@ title: Activities
 ---
 
 ## Talks
-- 2022.02 abelian barieties, generic vanishing seminar [[Link]](https://yau-msc-events.github.io/seminar-gv.html)
-- 2022.02 introduction to mirror symmetry, homological mirror symmetry seminar [[Link]](https://zenith-john.github.io/post/enumerative_geometry_seminar_2022)
+- 2022.02 Abelian barieties, generic vanishing seminar [[Link]](https://yau-msc-events.github.io/seminar-gv.html)
+- 2022.02 Introduction to mirror symmetry, homological mirror symmetry seminar [[Link]](https://zenith-john.github.io/post/enumerative_geometry_seminar_2022)
 - 2023.02-06 Equivariant Gromov-Witten theory, aspects of Gromov-Witten theory seminar [[Link]](https://zenith-john.github.io/post/enumerative_geometry_seminar_2023_spring)
 
 ## Teaching
